@@ -20,7 +20,7 @@
             android:textColor="#000"
             android:textSize="25sp"
             android:gravity="center"
-            android:text="Criteria ... Emoticonas"
+            android:text="Criteria by Emoticonas Design"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 

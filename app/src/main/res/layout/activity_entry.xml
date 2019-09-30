@@ -14,7 +14,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="177dp"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/ic_iconcriteriaxx" />
 
         <TextView
             android:textColor="#000"

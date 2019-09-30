@@ -136,7 +136,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
                 i.setType("text/plain");
                 i.putExtra(Intent.EXTRA_SUBJECT, "Subject");
                 String sAux = "\n Tittle \n\n";
-                sAux = sAux + "https://play.google.com/store/apps/details?id=com.criteria.samplestickerapp \n\n";
+                sAux = sAux + "https://play.google.com/store/apps/details?id=com.criteria.stickerapp \n\n";
                 i.putExtra(Intent.EXTRA_TEXT, sAux);
                 startActivity(Intent.createChooser(i, "choose one"));
             } catch(Exception e) {
